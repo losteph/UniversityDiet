@@ -46,5 +46,4 @@ display x, cost;
 
 - **Stefano Di Lena**
 - Politecnico di Bari
-- Anno 2025
 - Tema d'anno per l'esame di *Optimization and Control*
