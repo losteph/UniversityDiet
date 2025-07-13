@@ -23,12 +23,12 @@ Uno studente universitario ha un budget settimanale di 70$ per acquistare cibo p
 ```
 📦 UniversityDiet
  ┣ 📂 AMPL/
- ┃ ┣ 📄 model.mod
- ┃ ┣ 📄 data.dat
+ ┃ ┣ 📄 UniversityDiet.mod
+ ┃ ┣ 📄 UniversityDiet.dat
  ┣ 📂 matlab/
- ┃ ┗ 📄 diet_optimizer.m
+ ┃ ┗ 📄 UniversityDiet.m
  ┣ 📂 Excel/
- ┃ ┗ 📄 dieta_ottimale.xlsx
+ ┃ ┗ 📄 UniversityDiet.xlsx
  ┣ 📄 README.md
  ┗ 📄 TemaOptimizationControl.pdf
 ```
