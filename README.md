@@ -21,13 +21,13 @@ Uno studente universitario ha un budget settimanale di 70$ per acquistare cibo p
 ## 📁📄 Repo Structure
 
 ```
-📦 diet-planning-optimization
- ┣ 📂 ampl/
+📦 UniversityDiet
+ ┣ 📂 AMPL/
  ┃ ┣ 📄 model.mod
  ┃ ┣ 📄 data.dat
  ┣ 📂 matlab/
  ┃ ┗ 📄 diet_optimizer.m
- ┣ 📂 excel/
+ ┣ 📂 Excel/
  ┃ ┗ 📄 dieta_ottimale.xlsx
  ┣ 📄 README.md
  ┗ 📄 relazione.pdf
