@@ -19,6 +19,8 @@ Uno studente universitario ha un budget settimanale di 70$ per acquistare cibo p
 - Fabbisogno calorico giornaliero: 2300–3000 kcal
 
 ## 📁📄 Struttura del Repository
+
+```
 📦 diet-planning-optimization
  ┣ 📂 ampl/
  ┃ ┣ 📄 model.mod
@@ -29,6 +31,7 @@ Uno studente universitario ha un budget settimanale di 70$ per acquistare cibo p
  ┃ ┗ 📄 dieta_ottimale.xlsx
  ┣ 📄 README.md
  ┗ 📄 relazione.pdf
+```
 
 ## 🚀 How to Run (AMPL)
 
