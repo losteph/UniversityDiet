@@ -30,7 +30,7 @@ Uno studente universitario ha un budget settimanale di 70$ per acquistare cibo p
  ┣ 📂 Excel/
  ┃ ┗ 📄 dieta_ottimale.xlsx
  ┣ 📄 README.md
- ┗ 📄 relazione.pdf
+ ┗ 📄 TemaOptimizationControl.pdf
 ```
 
 ## 🚀 How to Run (AMPL)
