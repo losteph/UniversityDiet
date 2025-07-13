@@ -40,5 +40,5 @@ option solver cplex;
 model model.mod;
 data data.dat;
 solve;
-display x, cost;
+display Q, CostMin;
 ```
