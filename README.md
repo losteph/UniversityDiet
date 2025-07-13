@@ -37,8 +37,8 @@ Uno studente universitario ha un budget settimanale di 70$ per acquistare cibo p
 
 ```ampl
 option solver cplex;
-model model.mod;
-data data.dat;
+model UniversityDiet.mod;
+data UniversityDiet.dat;
 solve;
 display Q, TotalCost;
 ```
