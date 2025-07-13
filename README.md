@@ -18,7 +18,7 @@ Uno studente universitario ha un budget settimanale di 70$ per acquistare cibo p
 - Uova e salmone: non possono comparire lo stesso giorno
 - Fabbisogno calorico giornaliero: 2300–3000 kcal
 
-## 📁📄 Struttura del Repository
+## 📁📄 Repo Structure
 
 ```
 📦 diet-planning-optimization
@@ -36,14 +36,9 @@ Uno studente universitario ha un budget settimanale di 70$ per acquistare cibo p
 ## 🚀 How to Run (AMPL)
 
 ```ampl
+option solver cplex;
 model model.mod;
 data data.dat;
 solve;
 display x, cost;
 ```
-
-## 👨‍🎓 Autore
-
-- **Stefano Di Lena**
-- Politecnico di Bari
-- Tema d'anno per l'esame di *Optimization and Control*
