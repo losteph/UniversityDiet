@@ -1,6 +1,6 @@
-# 🥗 Diet Planning Optimization for University Students
+# 🥗 Ottimizzazione di una Dieta Settimanale Bilanciata
 
-Problema di ottimizzazione modellato tramite *Mixed Integer Linear Programmin (MILP)*. Problema implementato in **AMPL, Excel, MATLAB**, con l'obiettivo di ottenere pasti vari, bilanciati ed a basso costo. 
+Problema di ottimizzazione modellato tramite *Mixed Integer Linear Programming (MILP)*. Problema implementato in **AMPL**, con l'obiettivo di ottenere pasti vari, bilanciati ed a basso costo. 
 
 ## 🧩 Problema
 
@@ -24,11 +24,7 @@ Uno studente universitario ha un budget settimanale di 70$ per acquistare cibo p
 📦 UniversityDiet
  ┣ 📂 AMPL/
  ┃ ┣ 📄 UniversityDiet.mod
- ┃ ┣ 📄 UniversityDiet.dat
- ┣ 📂 matlab/
- ┃ ┗ 📄 UniversityDiet.m
- ┣ 📂 Excel/
- ┃ ┗ 📄 UniversityDiet.xlsx
+ ┃ ┗ 📄 UniversityDiet.dat
  ┣ 📄 README.md
  ┗ 📄 TemaOptimizationControl.pdf
 ```
