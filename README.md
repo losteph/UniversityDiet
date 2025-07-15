@@ -4,7 +4,7 @@ Problema di ottimizzazione modellato tramite *Mixed Integer Linear Programming (
 
 ## 🧩 Problema
 
-Uno studente universitario ha un budget settimanale di 90$ per acquistare cibo per 7 pranzi e 7 cene. Si richiede che la dieta sia:
+Uno studente universitario ha un budget settimanale di 90$ per acquistare cibo. Si richiede che la dieta sia:
 
 - Nutrizionalmente equilibrata: ogni giorno, circa il 55% delle calorie da carboidrati, il 25% da grassi e il 20% da proteine, con tolleranza del ±2%.
 - Completa e varia: includendo diverse fonti di proteine (carne, pesce, legumi, formaggi).
