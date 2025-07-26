@@ -17,9 +17,9 @@ Uno studente universitario ha un budget settimanale di 90$ per acquistare cibo. 
  ┣ 📂 AMPL/
  ┃ ┣ 📄 UniversityDiet.mod
  ┃ ┗ 📄 UniversityDiet.dat
+ ┣ 📄 Presentazione_DiLena_Santoro.pdf 
  ┣ 📄 README.md
- ┣ 📄 TemaOptimizationControl.pdf
- ┗ 📄 Presentazione_DiLena_Santoro.pdf
+ ┗ 📄 TemaOptimizationControl.pdf
 ```
 
 ## 🚀 How to Run (AMPL)
