@@ -15,8 +15,8 @@ Uno studente universitario ha un budget settimanale di 90$ per acquistare cibo. 
 ```
 📦 UniversityDiet
  ┣ 📂 AMPL/
- ┃ ┣ 📄 UniversityDiet.mod
- ┃ ┗ 📄 UniversityDiet.dat
+ ┃ ┣ 📄 UniversityDiet.dat
+ ┃ ┗ 📄 UniversityDiet.mod
  ┣ 📄 Presentazione_DiLena_Santoro.pdf 
  ┣ 📄 README.md
  ┗ 📄 TemaOptimizationControl.pdf
